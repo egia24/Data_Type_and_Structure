@@ -1,41 +1,21 @@
-## Part A - Basic Calculation
+# Data Type and Structure Exploration
 
-Lakukan operasi matematika dasar untuk dua bilangan berikut: `a = 12` dan `b = 5`.
-
-**Tugas:**
-1. Penjumlahan dan pengurangan dua bilangan.
-2. Perkalian dan pembagian dua bilangan.
-3. Floor division dan modulus antara dua bilangan.
-4. Pemangkatan (eksponen).
-
-**Contoh penggunaan Python:**
-```python
-a = 12
-b = 5
-
-print("Penjumlahan:", a + b)
-print("Pengurangan:", a - b)
-print("Perkalian:", a * b)
-print("Pembagian:", a / b)
-print("Floor division:", a // b)
-print("Modulus:", a % b)
-print("Eksponen:", a ** b)# Data Type and Structure Exercises
-
-Repository ini berisi latihan Python yang mencakup operasi dasar, struktur data, dan eksplorasi DataFrame. Latihan dibagi menjadi beberapa bagian:  
+Repository ini berisi latihan dan contoh eksplorasi Python untuk memahami **operasi dasar, struktur data, dan manipulasi DataFrame**.  
+Materi ini disusun untuk praktik langsung, bukan sebagai tugas formal.  
 
 ---
 
 ## Part A - Basic Calculation
 
-Lakukan operasi matematika dasar untuk dua bilangan berikut: `a = 12` dan `b = 5`.
+Eksplorasi operasi matematika dasar dengan dua bilangan contoh: `a = 12` dan `b = 5`.
 
-**Tugas:**
-1. Penjumlahan dan pengurangan dua bilangan.
-2. Perkalian dan pembagian dua bilangan.
-3. Floor division dan modulus antara dua bilangan.
-4. Pemangkatan (eksponen).
+**Aktivitas:**
+- Penjumlahan dan pengurangan dua bilangan
+- Perkalian dan pembagian dua bilangan
+- Floor division dan modulus
+- Pemangkatan (eksponen)
 
-**Contoh penggunaan Python:**
+**Contoh Python:**
 ```python
 a = 12
 b = 5
